@@ -16,3 +16,4 @@ whatsapp
 telegram
 discord
 yarn
+github-desktop
