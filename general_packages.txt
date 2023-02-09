@@ -1,0 +1,9 @@
+7zip
+vlc
+qbittorrent
+google-drive-file-stream
+paint.net
+spotify
+whatsapp
+telegram
+discord
