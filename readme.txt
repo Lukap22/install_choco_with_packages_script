@@ -1,4 +1,4 @@
-Add all packages you want in de the ./*_packages.txt
+Add all packages you want in de the ./packages/*_packages.txt
 
 Run the "run.bat"
 
