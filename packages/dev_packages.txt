@@ -7,3 +7,4 @@ git
 putty
 postman
 yarn
+powershell-core
