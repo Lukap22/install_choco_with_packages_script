@@ -1,6 +1,6 @@
 github-desktop
 nodejs
-vscode
+vscode-insiders
 webstorm
 docker-desktop
 git
