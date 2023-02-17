@@ -7,3 +7,4 @@ spotify
 whatsapp
 telegram
 discord
+languagetool
